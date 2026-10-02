@@ -2,7 +2,7 @@ Hi, I'm Pragati Rungta 👋
 
 I'm a B.Tech Computer Science Engineering student at Galgotias University. 
 I'm currently learning Java, Data Structures and Algorithms, and Web Development.
-I'm also exploring AI and Generative AI through learning and hackathons
+I'm also exploring AI and Generative AI through projects and hackathons
 
 Currently, I'm working on my 100 Days DSA Challenge, where I'm solving problems
 in Java and improving my problem-solving skills.
