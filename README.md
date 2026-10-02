@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Pragati Rungta 👋
 
-<!--
-**Pragati-Rungta/Pragati-Rungta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science Engineering student at Galgotias University. 
+I'm currently learning Java, Data Structures and Algorithms, and Web Development.
+I'm also exploring AI and Generative AI through learning and hackathons
 
-Here are some ideas to get you started:
+Currently, I'm working on my 100 Days DSA Challenge, where I'm solving problems
+in Java and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of the projects I've worked on include:
+
+- 100 Days DSA Challenge
+- Web Development Challenges
+- Snake Game using JavaScript
+
+I'm interested in software development and looking for opportunities where I can
+learn, build practical projects, and gain real-world experience.
+
+Tech I work with:
+Java, Python, C, JavaScript, HTML, CSS, MySQL, Git & GitHub.
+
+You can connect with me on LinkedIn.
+www.linkedin.com/in/pragati-rungta
